@@ -822,8 +822,8 @@ Paso 6: Revisar logs de error
         → Acción: Buscar patrones de error conocidos en Sección 11.1
 
 Paso 7: Contactar soporte (si persiste)
-        → Email: security@nexus-core.com
-        → GitHub: https://github.com/nexus-core/lilit/issues
+        → Email: abdiassamuel15@gmail.com
+        → GitHub: https://github.com/anonimous264
         → Incluir: Versión de LILIT, SO, Python, comando ejecutado, log de error
 ```
 
@@ -831,9 +831,9 @@ Paso 7: Contactar soporte (si persiste)
 
 | Canal | Información | Horario de Atención |
 |-------|-------------|---------------------|
-| **Email** | security@nexus-core.com | Lunes-Viernes, 9:00-18:00 UTC |
-| **GitHub Issues** | https://github.com/nexus-core/lilit/issues | 24/7 (asíncrono) |
-| **Documentación** | https://docs.nexus-core.com/lilit | Actualizada continuamente |
+| **Email** | abdiassamuel15@gmail.com | Lunes-Viernes, 9:00-18:00 UTC |
+| **GitHub Issues** | https://github.com/anonimous264 | 24/7 (asíncrono) |
+| **Documentación** | https://github.com/anonimous264 Actualizada continuamente |
 | **Comunidad** | Discord: nexus-core.security | Comunidad global, horarios variables |
 
 ---
