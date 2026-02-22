@@ -13,8 +13,8 @@
 ║                                                                              ║
 ║                    Live Intelligent Link Inspection Tool                     ║
 ║                                                                              ║
-║                    Versión del Documento: 0.0                                ║
-║                    Fecha: Enero 2025                                         ║
+║                    Versión del Documento: 1.0                                ║
+║                    Fecha: Enero 2026                                         ║
 ║                    Clasificación: USO INTERNO AUTORIZADO                     ║
 ║                                                                              ║
 ║                    Autor: Abdias Samuel                                      ║
@@ -981,15 +981,15 @@ LEGAL ANTES DE SU IMPLEMENTACIÓN EN ENTORNOS PRODUCTIVOS.
 | **CVE** | Common Vulnerabilities and Exposures: Identificador único para vulnerabilidades de seguridad públicas | LILIT matchea banners contra base de datos CVE para alertar vulnerabilidades conocidas |
 | **Risk Score** | Puntuación numérica (0.0-1.0) que cuantifica el nivel de riesgo de un hallazgo | Calculado multifactorialmente: puerto crítico, servicio sin cifrar, CVE conocido, etc. |
 | **Stealth Mode** | Modo de operación que introduce delays aleatorios para reducir probabilidad de detección | Útil en entornos productivos con IDS/IPS sensibles |
-| **CPE** | Common Platform Enumeration: Esquema estandarizado para identificar productos/software | Base para búsqueda de vulnerabilidades en base de datos (v5.0 Enterprise) |
-| **Compliance Framework** | Conjunto de controles y requisitos para cumplimiento normativo (PCI-DSS, ISO27001, etc.) | LILIT v5.0 incluye motor de evaluación contra frameworks predefinidos |
+| **CPE** | Common Platform Enumeration: Esquema estandarizado para identificar productos/software | Base para búsqueda de vulnerabilidades en base de datos (v1.0 Enterprise) |
+| **Compliance Framework** | Conjunto de controles y requisitos para cumplimiento normativo (PCI-DSS, ISO27001, etc.) | LILIT v1.0 incluye motor de evaluación contra frameworks predefinidos |
 
 ### Apéndice C: Plantilla de Autorización de Escaneo
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                 AUTORIZACIÓN DE ESCANEO DE SEGURIDAD                         ║
-║                              LILIT v1.0/v5.0                                 ║
+║                              LILIT v1.0                                      ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
 ║ Yo, ________________________________, en mi calidad de                      ║
