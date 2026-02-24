@@ -210,9 +210,9 @@ cp lilit.py ~/pentesting/tools/
 **Opción B: Descarga desde Repositorio**
 ```bash
 # Usar wget o curl
-wget https://github.com/nexus-core/lilit/releases/download/v4.0.0/lilit.py
+wget https://github.com/anonimous264
 # O:
-curl -O https://github.com/nexus-core/lilit/releases/download/v4.0.0/lilit.py
+curl -O https://github.com/anonimous264
 ```
 
 ### 4.2 Configuración del Entorno Virtual (Recomendado)
